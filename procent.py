@@ -1,4 +1,4 @@
-price = 250000
-r = 36
-t = 2
+price = int(input())
+r = int(input())
+t = int(input())
 print((price * r * t)/100)
